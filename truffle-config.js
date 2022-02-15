@@ -58,7 +58,7 @@ module.exports = {
             gasPrice: 15000000001,
         },
         humanode: {
-            network_id: 2020,
+            network_id: 5234,
             provider: providerForNetwork('humanode'),
             gas: 7.9e6,
         },
